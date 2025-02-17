@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/stordco/sre-technical-challenge
-  tag: latest
+  tag: arm64
 
 env:
   DATABASE_URL: "postgresql://postgres:password@sre-db-postgresql/sre-technical-challenge"
